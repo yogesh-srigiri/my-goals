@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+
+.form-group{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+   
+}
+
+.topmargin{
+    margin: 30px;
+}
+
+
+
