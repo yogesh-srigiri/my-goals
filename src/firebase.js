@@ -4,13 +4,13 @@ import 'firebase/database';
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDMEYZMAHnfkg4AkdXGymcYRkdXbC1RNYw",
-    authDomain: "goals-e4217.firebaseapp.com",
-    databaseURL: "https://goals-e4217.firebaseio.com",
-    projectId: "goals-e4217",
-    storageBucket: "goals-e4217.appspot.com",
-    messagingSenderId: "206940620920",
-    appId: "1:206940620920:web:a2ce7ddc0b54927556458d",
+    apiKey: "your api key",
+    authDomain: "auth domian url",
+    databaseURL: "url",
+    projectId: "your project id",
+    // storageBucket: "goals-e4217.appspot.com",
+    messagingSenderId: "id",
+    appId: "your app id",
     measurementId: "G-KTYST1QMN6"
   };
 
